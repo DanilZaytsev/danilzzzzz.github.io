@@ -53,7 +53,8 @@ border-bottom: 2px solid #000;
 	display: none;
 }
 .mw-100{
-	max-width: 100%
+	max-width: 100%;
+	min-width: 100%;
 }
 .advantages__container{
 	display: flex;
